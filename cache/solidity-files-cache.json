@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/mike/projects/eth-hello-world/contracts/HelloNurse.sol": {
+      "lastModificationDate": 1639595925123,
+      "contentHash": "7f9f4d680e01af167a41b2fc156a5bb0",
+      "sourceName": "contracts/HelloNurse.sol",
+      "solcConfig": {
+        "version": "0.7.3",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.7.0"
+      ],
+      "artifacts": [
+        "HelloNurse"
+      ]
+    },
+    "/Users/mike/projects/eth-hello-world/contracts/DataList.sol": {
+      "lastModificationDate": 1639972490829,
+      "contentHash": "84a68b4792eda1c8e64cf22dd0824024",
+      "sourceName": "contracts/DataList.sol",
+      "solcConfig": {
+        "version": "0.7.3",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "DataList"
+      ]
+    }
+  }
+}
